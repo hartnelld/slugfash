@@ -1,0 +1,8 @@
+.container h1 {
+  font-size: 48px;
+}
+
+.jumbotron {
+  background-image: url("http://kathrynivy.com/uploads/images/blog/banana_slug3.jpg");
+  color: #FFF;
+}
